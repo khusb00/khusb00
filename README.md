@@ -1,5 +1,9 @@
 ## Hi I'm Kushboo 👋
 I’m a pre-final year B.Tech student passionate about building websites, UI/UX design, and content creation. Currently, I am honing my skills as an intern at VisiARise, an innovative startup focused on Augmented Reality solutions.
-Feel free to explore my repositories to see my work and contributions. Let’s connect and build impactful digital experiences together!
+
 # Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql)](https://skillicons.dev)
+# Growing my skills in
+[![My Skills](https://skillicons.dev/icons?i=js,uiux,)](https://skillicons.dev)
+
+Feel free to explore my repositories to see my work and contributions. Let’s connect and build impactful digital experiences together!
