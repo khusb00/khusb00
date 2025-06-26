@@ -7,6 +7,6 @@ I’m a pre-final year B.Tech student passionate about building websites, UI/UX 
 - UI/UX
 - JavaScript
 - Data Structures
-- Big Data
+- SQL
 
 Feel free to explore my repositories to see my work and contributions. Let’s connect and build impactful digital experiences together!
